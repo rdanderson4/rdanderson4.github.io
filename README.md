@@ -61,7 +61,9 @@ You can now replicate this process using any multitude of free templates availab
 
 ## FAQs
 **roderickanderson.net?** - I currently own the domain name, but I will transfer it to you when you want to learn about DNS and DNS providers.
+
 **How do I get clients?** - Offer your services on Craigslist, fiverr, or in person.
+
 **Who needs websites?** - Friends, family, businesses organizations. I recommend getting comfortable with one template at a time, then marketing to that audience. For example, get really good at this template, then market to job seekers and students.
 
 ## Copyright and License
