@@ -42,11 +42,16 @@ git push origin master
 If it works, navigate to [rdanderson4.github.io](rdanderson4.github.io), and you should see your changes farly quickly. You may need to open an incognito window.
 
 ## What to Change
-* Header Title: The title within the browser tab! [title](readme/title.png)
-* Content: ![content](readme/content.png)
-* Photo: Use your face! ![image](readme/image.png)
-* Links: Make sure they link to the right place! ![links](readme/links.png)
-* Color: Change at least one color within scss/_variables.scss
+### Header Title:
+The title within the browser tab! ![title](readme/title.png)
+### Content:
+Any and all content! [content](readme/content.png)
+### Photo:
+Use your face! ![image](readme/image.png)
+### Links:
+Make sure they link to the right place! ![links](readme/links.png)
+### Color:
+Change at least one color within scss/_variables.scss
 
 ## Why
 After you do this you will have experience deploying a website, using HTML, and using CSS. You will have expereince with git and GitHub. You will be able to take **any** pre-made template and deploy a _customized_ static website for yourself or clients.
